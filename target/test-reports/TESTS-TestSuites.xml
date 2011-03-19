@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="BT1524" id="0" name="WineTests" package="wineyard" tests="1" time="0.735" timestamp="2011-03-09T03:42:05">
+      <properties />
+
+      <testcase classname="wineyard.WineTests" name="testSomething" time="0.719" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
